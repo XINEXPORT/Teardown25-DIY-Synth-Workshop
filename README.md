@@ -1,7 +1,7 @@
 # Super Simple DIY Synth Workshop
+[![Watch the demo](https://github.com/XINEXPORT/Teardown25-DIY-Synth-Workshop/blob/main/DIY-Synth-Flyer.png)](https://youtube.com/shorts/ezmxaq6aThQ?feature=share)</br>
+</br>
 Have you ever wanted to make your own musical synthesizer? Are you curious how a breadboard works? We've got you covered! Learn how to make a super simple DIY synth in this hands-on workshop. With just a few materials, you will learn how to hack together your own sawtooth synthesizer. No soldering required. All ages welcome and beginner-friendly.
-
-[![Watch the demo](https://github.com/XINEXPORT/Teardown25-DIY-Synth-Workshop/blob/main/DIY-Synth-Flyer.png)](https://youtube.com/shorts/ezmxaq6aThQ?feature=share)
 
 ## What You Will Learn
 - Build your own synth oscillator
