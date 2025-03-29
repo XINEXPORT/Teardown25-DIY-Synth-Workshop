@@ -5,6 +5,12 @@ Have you ever wanted to make your own musical synthesizer? Are you curious how a
 In this workshop, each attendee will create a simple oscillator circuit that makes sound using transistors and basic electronics components. We will provide all materials, just come prepared to learn! We hope that everyone can get something out of this workshop. Beginners can learn how a breadboard works and make their first circuit, and advanced electronics hackers can learn more about how transistors work as we explore the reverse avalanche breakdown effect. Participants will create a synthesizer with frequency control, a filter, and volume control with a headphone jack and optional speaker amplifier. 
 
 The design of the synth has been used in DIY modular synth setups and was made popular from Look Mum No Computer’s 1000 oscillator megadrone project. Participants can take their breadboarded circuit home and use it in their own musical practice, or build more with the knowledge from the workshop!
+</br>
+</br>
+**Watch the Demo**
+</br>
+</br>
+[![Demo](https://img.youtube.com/vi/ezmxaq6aThQ/0.jpg)](https://www.youtube.com/shorts/ezmxaq6aThQ)
 
 ## What You Will Learn
 - Build your own synth oscillator
