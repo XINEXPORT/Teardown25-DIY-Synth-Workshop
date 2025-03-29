@@ -39,7 +39,7 @@ The design of the synth has been used in DIY modular synth setups and was made p
 ![Schematic](https://github.com/XINEXPORT/Teardown25-DIY-Synth-Workshop/blob/main/schematic.png)
 
 ## Look Mum No Computer Inspiration
-[![LMNC DIY Synth Demo](https://img.youtube.com/vi/UsAVJlZb9oCiMwI6/0.jpg)](https://youtu.be/zCTLeNxge54?si=UsAVJlZb9oCiMwI6)
+[![LMNC DIY Synth Demo](https://img.youtube.com/vi/zCTLeNxge54/0.jpg)](https://www.youtube.com/watch?v=zCTLeNxge54)
 </br>
 https://www.lookmumnocomputer.com/simplest-oscillator
 
