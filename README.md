@@ -45,6 +45,12 @@ https://www.lookmumnocomputer.com/simplest-oscillator
 ## Explanation of the Reverse Avalanche VCO Design
 [![Reverse Avalanche Circuit](https://img.youtube.com/vi/wRBB7lsQ7o4/0.jpg)](https://www.youtube.com/watch?v=wRBB7lsQ7o4)
 
+## Helpful Links
+https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code
+</br>
+</br>
+https://fritzing.org/tags/breadboard
+
   
 
 
