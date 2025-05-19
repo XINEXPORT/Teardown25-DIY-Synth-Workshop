@@ -52,7 +52,11 @@ https://www.digikey.com/en/resources/conversion-calculators/conversion-calculato
 https://fritzing.org/tags/breadboard
 </br>
 </br>
+https://www.digikey.com/en/schemeit/project
+</br>
+</br>
 https://www.learnrobotics.org/blog/how-to-wire-a-breadboard/
+
   
 
 
