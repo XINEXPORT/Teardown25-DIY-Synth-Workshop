@@ -21,7 +21,7 @@ The design of the synth has been used in DIY modular synth setups and was made p
 
 ## Hardware and Supply Requirements
 - 1 half-size breadboard
-- 1 wire kit
+- 1 jumper wire kit
 - 1 470 ohm resistors
 - 1 22uf capacitor
 - 1 100k potentiometer
