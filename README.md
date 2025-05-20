@@ -20,19 +20,18 @@ The design of the synth has been used in DIY modular synth setups and was made p
 - Musical experimentation
 
 ## Hardware and Supply Requirements
-- 1 breadboard
+- 1 half-size breadboard
 - 1 wire kit
-- 2 470 ohm resistors
-- 1 10uf capacitor
+- 1 470 ohm resistors
+- 1 22uf capacitor
 - 1 100k potentiometer
 - 2 10k potentiometers
 - 2 2N2222 transistors
-- 1 LED
-- 1 screw terminal power connector
+- 1 Red LED
+- 1 set of barrel screw terminal power connectors
 - 1 headphone jack
-- 1 mini speaker and LM386 amp (optional)
 - 1 9v battery
-- 1 copy of circuit schematic, printed
+- 1 printed circuit schematic and complete breadboard drawing
 
 ## Schematic
 ![Schematic](https://github.com/XINEXPORT/Teardown25-DIY-Synth-Workshop/blob/main/revised-schematic.png)
@@ -46,17 +45,18 @@ https://www.lookmumnocomputer.com/simplest-oscillator
 [![Reverse Avalanche Circuit](https://img.youtube.com/vi/wRBB7lsQ7o4/0.jpg)](https://www.youtube.com/watch?v=wRBB7lsQ7o4)
 
 ## Helpful Links
+DigiKey's Resistor Color Code Calculator</br>
 https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code
 </br>
 </br>
-https://fritzing.org/tags/breadboard
-</br>
-</br>
+DigiKey's Scheme-It, a schematic design tool</br>
 https://www.digikey.com/en/schemeit/project
 </br>
 </br>
-https://www.learnrobotics.org/blog/how-to-wire-a-breadboard/
-
+Fritzing, an open-source virtual breadboard and EDA software</br>
+https://fritzing.org/tags/breadboard
+</br>
+</br>
   
 
 
