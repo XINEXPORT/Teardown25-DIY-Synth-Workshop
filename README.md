@@ -43,7 +43,7 @@ The design of the synth has been used in DIY modular synth setups and was made p
 </br>
 https://www.lookmumnocomputer.com/simplest-oscillator
 
-## Explanation of the Reverse Avalanche VCO Design
+## Explanation of the Reverse Avalanche Oscillator Design
 [![Reverse Avalanche Circuit](https://img.youtube.com/vi/wRBB7lsQ7o4/0.jpg)](https://www.youtube.com/watch?v=wRBB7lsQ7o4)
 
 ## Helpful Links
