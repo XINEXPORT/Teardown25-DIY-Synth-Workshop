@@ -34,7 +34,7 @@ The design of the synth has been used in DIY modular synth setups and was made p
 - 1 printed circuit schematic and complete breadboard drawing
 
 ## Schematic
-![Schematic](https://github.com/XINEXPORT/Teardown25-DIY-Synth-Workshop/blob/main/schematic-v3.png)
+![Schematic](https://github.com/XINEXPORT/Teardown25-DIY-Synth-Workshop/blob/main/schematic.png)
 
 ## Look Mum No Computer Inspiration
 [![LMNC DIY Synth Demo](https://img.youtube.com/vi/zCTLeNxge54/0.jpg)](https://www.youtube.com/watch?v=zCTLeNxge54)
