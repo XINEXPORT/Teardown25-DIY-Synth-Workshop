@@ -22,16 +22,18 @@ The design of the synth has been used in DIY modular synth setups and was made p
 ## Hardware and Supply Requirements
 - 1 half-size breadboard
 - 1 jumper wire kit
-- 1 470 ohm resistor
-- 1 22uf capacitor
+- 1 470 Ω resistor
+- 2 4.7 kΩ resistor
+- 1 3.3uF capacitor
+- 1 22uF capacitor
 - 1 100k potentiometer
 - 2 10k potentiometers
 - 2 2N2222 transistors
 - 1 Red LED
-- 1 set of barrel screw terminal power connectors
+- 1 set of DC Plug barrel screw power connectors
 - 1 headphone jack
-- 1 9v battery
-- 1 printed circuit schematic and complete breadboard drawing
+- 1 9v battery or 12v Power Supply
+- 1 printed circuit schematic and breadboard drawing
 
 ## Schematic
 ![Schematic](https://github.com/XINEXPORT/Teardown25-DIY-Synth-Workshop/blob/main/schematic.png)
