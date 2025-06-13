@@ -58,7 +58,11 @@ https://www.digikey.com/en/schemeit/project
 Fritzing, an open-source virtual breadboard and EDA software</br>
 https://fritzing.org/tags/breadboard
 </br>
+
+Mouser Materials List</br>
+https://www.mouser.com/Tools/Project/Share?AccessID=8274863a0f
 </br>
+
   
 
 
